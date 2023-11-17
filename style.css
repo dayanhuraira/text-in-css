@@ -1,0 +1,69 @@
+/* FONT-FAMILY */
+
+/* body{
+    font-family: cursive;
+}
+
+h1, h2 {
+    font-family: Arial, Verdana, sans-serif;}
+    
+    
+.credits {
+    font-family: "Courier New", Courier,
+    monospace;} */
+
+/* Font-Size */
+
+/* PIXELS */
+/* P{
+    font-size: 30px;
+} */
+
+/* PERCENTAGE */
+/* P{
+    font-size: 500%;
+} */
+
+/* Defaul values */
+/* p{
+    font-size: large;
+} */
+
+/* p{
+    font-size: 3em;
+} */
+
+/* FONT FACE */
+
+/* @font-face {
+    font-family: 'test';
+    src: url('./fonts/ClashDisplay-Bold.otf');
+}
+
+h1{
+    font-family: test;
+} */
+
+/* FONT WEIGHT */
+/* P{
+    font-weight: 900;
+} */
+
+/* FONT STYLE */
+/* h1{
+    font-style: italic;
+} */
+
+/* using id selectors and comparing 3 styles */
+
+#normal{
+    font-style: normal;
+}
+
+#italic{
+    font-style: italic;
+}
+
+#oblique{
+    font-style: oblique;
+}
